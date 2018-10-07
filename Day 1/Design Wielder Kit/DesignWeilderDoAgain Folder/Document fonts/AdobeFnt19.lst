@@ -1,0 +1,25 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apple-Chancery
+FamilyName:Apple Chancery
+StyleName:Chancery
+MenuName:Apple Chancery
+StyleBits:0
+WeightClass:0
+WidthClass:5
+AngleClass:1
+FullName:Apple Chancery
+WritingScript:Roman
+OutlineFileName:\Apple Chancery.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:336452
+FileModTime:1510083093
+NameArray:0,Mac,4,Apple Chancery
+%EndFont
+
